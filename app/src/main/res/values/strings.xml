@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ClimbingArchive</string>
+    <string name="app_caption">Kletterarchiv</string>
+    <string name="summit_name">Gipfelname</string>
+    <string name="way_name">Wegname</string>
+    <string name="difficulty">Schwierigkeit</string>
+    <string name="comment">Notiz</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="finish">Fertig</string>
+    <string name="date">Datum</string>
+    <string name="location">Ort</string>
+    <string name="lead_climbed">Vorstieg</string>
+    <string name="order">Sortierung</string>
+</resources>
